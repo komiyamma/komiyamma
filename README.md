@@ -4,6 +4,9 @@
 ![CS](index_title_cs.png)
 ![Python](index_title_py.png)
 ![V8](index_title_v8.png)
+  
+![VSCode](index_title_vsc.png)
+
 <!--
 **komiyamma/komiyamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
