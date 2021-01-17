@@ -6,6 +6,8 @@
 ![V8](index_title_v8.png)
   
 ![VSCode](index_title_vsc.png)
+![ETH](index_title_eth.png)
+![TheLastGuardian](index_title_tlg.png)
 
 <!--
 **komiyamma/komiyamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
