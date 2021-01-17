@@ -1,4 +1,4 @@
-### 秀丸 / Ethereum Smart Contract / Visual Studio Code / C++, C#.NET or Python, ECMAScript
+### 秀丸 / Ethereum Smart Contract / C++, C#.NET or Python, ECMAScript / Visual Studio Code
 
 [![秀丸](index_title_hm.png)](https://xn--pckzexbx21r8q9b.net/)
 [![CS](index_title_cs.png)](https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet)
