@@ -1,4 +1,4 @@
-### Hi there 👋
+### 秀丸 / Ethereum Smart Contract / Visual Studio Code / C++, C#.NET or Python
 
 <!--
 **komiyamma/komiyamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
