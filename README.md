@@ -8,6 +8,6 @@
 [![VSCode](index_title_vsc.png)](https://github.com/komiyamma/vscode_ripgrep_sjis)
 [![ETH](index_title_eth.png)](https://etherscan.io/address/0xe067433833636d2a5acbb42a219c7a97651e63bd#code)
 [![TheLastGuardian](index_title_tlg.png)](https://en.wikipedia.org/wiki/The_Last_Guardian)
-[![PlayMemories](index_title_pms.png)](https://ja.wikipedia.org/wiki/PlayMemories)
+<!-- [![PlayMemories](index_title_pms.png)](https://ja.wikipedia.org/wiki/PlayMemories) -->
 
 
