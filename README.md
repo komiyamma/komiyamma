@@ -10,4 +10,6 @@
 [![TheLastGuardian](index_title_tlg.png)](https://en.wikipedia.org/wiki/The_Last_Guardian)
 <!-- [![PlayMemories](index_title_pms.png)](https://ja.wikipedia.org/wiki/PlayMemories) -->
 
+--- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
 
