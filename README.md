@@ -13,7 +13,3 @@
 <a href="https://en.wikipedia.org/wiki/The_Last_Guardian"><img src="index_title_tlg.png" width="90" height="90"></a>
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="90" height="90"></a>
 
---- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hidemaru_dotnet_com)](https://github.com/komiyamma/hidemaru_dotnet_com)
-
