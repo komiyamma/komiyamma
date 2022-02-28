@@ -27,3 +27,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ironpython&cache_seconds=1800)](https://github.com/komiyamma/hm_ironpython)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nlua&cache_seconds=1800)](https://github.com/komiyamma/hm_nlua)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nodejs&cache_seconds=1800)](https://github.com/komiyamma/hm_nodejs)
