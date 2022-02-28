@@ -15,5 +15,7 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_python3&locale=ja)](https://github.com/komiyamma/hm_python3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_php8&locale=ja)](https://github.com/komiyamma/hm_php8)
+[![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
+[![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ecmascript)](https://github.com/komiyamma/hm_ecmascript)
+
+[![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
