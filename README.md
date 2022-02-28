@@ -19,3 +19,4 @@
 [![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ecmascript)](https://github.com/komiyamma/hm_ecmascript)
 
 [![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
+[![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
