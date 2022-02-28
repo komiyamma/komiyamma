@@ -14,10 +14,10 @@
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="90" height="90"></a>
 
 ---
-[![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
 
-[![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
-[![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ecmascript)](https://github.com/komiyamma/hm_ecmascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ecmascript)](https://github.com/komiyamma/hm_ecmascript)
 
-[![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
-[![Github Extra Pin](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
