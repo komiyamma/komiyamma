@@ -12,3 +12,8 @@
 <a href="https://etherscan.io/address/0xe067433833636d2a5acbb42a219c7a97651e63bd#code"><img src="index_title_eth.png" width="90" height="90"></a>
 <a href="https://en.wikipedia.org/wiki/The_Last_Guardian"><img src="index_title_tlg.png" width="90" height="90"></a>
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="90" height="90"></a>
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_python3&locale=ja)](https://github.com/komiyamma/hm_python3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_php8&locale=ja)](https://github.com/komiyamma/hm_php8)
