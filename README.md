@@ -13,6 +13,8 @@
 <a href="https://en.wikipedia.org/wiki/The_Last_Guardian"><img src="index_title_tlg.png" width="90" height="90"></a>
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="90" height="90"></a>
 
+# 秀丸
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw&cache_seconds=1800)](https://github.com/komiyamma/hm_dotnet_fw)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_com&cache_seconds=1800)](https://github.com/komiyamma/hm_dotnet_com)
 
@@ -30,3 +32,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ironpython&cache_seconds=1800)](https://github.com/komiyamma/hm_ironpython)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ironruby&cache_seconds=1800)](https://github.com/komiyamma/hm_ironruby)
+
+# Visual Studio Code
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=vscode_ripgrep_sjis_extension&cache_seconds=1800)](https://github.com/komiyamma/vscode_ripgrep_sjis_extension)
