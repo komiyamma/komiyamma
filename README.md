@@ -24,3 +24,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_cpp_invoke&cache_seconds=1800)](https://github.com/komiyamma/hm_cpp_invoke)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_javascript&cache_seconds=1800)](https://github.com/komiyamma/hm_javascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_powershell&cache_seconds=1800)](https://github.com/komiyamma/hm_powershell)
