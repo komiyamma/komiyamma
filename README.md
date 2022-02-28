@@ -13,7 +13,6 @@
 <a href="https://en.wikipedia.org/wiki/The_Last_Guardian"><img src="index_title_tlg.png" width="90" height="90"></a>
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="90" height="90"></a>
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw&cache_seconds=1800)](https://github.com/komiyamma/hm_dotnet_fw)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_com&cache_seconds=1800)](https://github.com/komiyamma/hm_dotnet_com)
 
@@ -26,5 +25,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_javascript&cache_seconds=1800)](https://github.com/komiyamma/hm_javascript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_powershell&cache_seconds=1800)](https://github.com/komiyamma/hm_powershell)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nodejs&cache_seconds=1800)](https://github.com/komiyamma/hm_nodejs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nlua&cache_seconds=1800)](https://github.com/komiyamma/hm_nlua)
