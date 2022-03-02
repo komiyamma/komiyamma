@@ -15,28 +15,28 @@
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_ecmascript"><img src="index_title_v8.png" width="90" height="90"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php"><img src="index_title_php.png" width="90" height="90"></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hidemaru-net&cache_seconds=1800)](https://github.com/komiyamma/hidemaru-net)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw&cache_seconds=1800)](https://github.com/komiyamma/hm_dotnet_fw)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_com&cache_seconds=1800)](https://github.com/komiyamma/hm_dotnet_com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_com)](https://github.com/komiyamma/hm_dotnet_com)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_python3&cache_seconds=1800)](https://github.com/komiyamma/hm_python3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ecmascript&cache_seconds=1800)](https://github.com/komiyamma/hm_ecmascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ecmascript)](https://github.com/komiyamma/hm_ecmascript)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_php8&cache_seconds=1800)](https://github.com/komiyamma/hm_php8)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_cpp_invoke&cache_seconds=1800)](https://github.com/komiyamma/hm_cpp_invoke)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_javascript&cache_seconds=1800)](https://github.com/komiyamma/hm_javascript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_powershell&cache_seconds=1800)](https://github.com/komiyamma/hm_powershell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_javascript)](https://github.com/komiyamma/hm_javascript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_powershell)](https://github.com/komiyamma/hm_powershell)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nodejs&cache_seconds=1800)](https://github.com/komiyamma/hm_nodejs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nlua&cache_seconds=1800)](https://github.com/komiyamma/hm_nlua)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nodejs)](https://github.com/komiyamma/hm_nodejs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nlua)](https://github.com/komiyamma/hm_nlua)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ironpython&cache_seconds=1800)](https://github.com/komiyamma/hm_ironpython)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ironruby&cache_seconds=1800)](https://github.com/komiyamma/hm_ironruby)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ironpython)](https://github.com/komiyamma/hm_ironpython)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ironruby)](https://github.com/komiyamma/hm_ironruby)
 
 # Visual Studio Code
 
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="90" height="90"></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=vscode_ripgrep_sjis_extension&cache_seconds=1800)](https://github.com/komiyamma/vscode_ripgrep_sjis_extension)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=vscode_ripgrep_sjis_extension)](https://github.com/komiyamma/vscode_ripgrep_sjis_extension)
