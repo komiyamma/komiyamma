@@ -17,8 +17,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hidemaru-net&cache_seconds=1800)](https://github.com/komiyamma/hidemaru-net)
 
-<br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw&cache_seconds=1800)](https://github.com/komiyamma/hm_dotnet_fw)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_com&cache_seconds=1800)](https://github.com/komiyamma/hm_dotnet_com)
 
