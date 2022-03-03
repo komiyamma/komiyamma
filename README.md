@@ -29,12 +29,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_javascript)](https://github.com/komiyamma/hm_javascript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_powershell)](https://github.com/komiyamma/hm_powershell)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nodejs)](https://github.com/komiyamma/hm_nodejs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_nlua)](https://github.com/komiyamma/hm_nlua)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ironpython)](https://github.com/komiyamma/hm_ironpython)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_ironruby)](https://github.com/komiyamma/hm_ironruby)
-
 # Visual Studio Code
 
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="90" height="90"></a>
