@@ -15,8 +15,6 @@
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_ecmascript"><img src="index_title_v8.png" width="90" height="90"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php"><img src="index_title_php.png" width="90" height="90"></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_com)](https://github.com/komiyamma/hm_dotnet_com)
 
