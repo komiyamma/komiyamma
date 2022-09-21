@@ -27,6 +27,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_javascript)](https://github.com/komiyamma/hm_javascript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_powershell)](https://github.com/komiyamma/hm_powershell)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hm_jsmode_ts_difinition)](https://github.com/komiyamma/hm_jsmode_ts_difinition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
 
 # Visual Studio Code
