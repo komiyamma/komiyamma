@@ -1,18 +1,12 @@
 ### MAUI / Visual Studio Code / 秀丸 / Ethereum Smart Contract / C++, C#.NET or Python, ECMAScript / 
 
 <style type="text/css">
-@font-face {
-    font-family: 'Darlington Demo';
-    src: url('./font/darlington.eot');
-    src: url('./font/darlington.eot?iefix') format('eot'),
-         url('./font/darlington.woff') format('woff'),
-         url('./font/darlington.woff2') format('woff2');
-}; 
+
 </style>
 
 <img src="2x_index_title_maui_desk.png" width="300" height="142"><br>
 
-# <font face="Darlington Demo">abc</font>
+# <span style="@font-face { font-family: 'Darlington Demo'; src: url('./font/darlington.eot'); src: url('./font/darlington.eot?iefix') format('eot'), url('./font/darlington.woff') format('woff'), url('./font/darlington.woff2') format('woff2');}; font-family:'Darlington Demo';">abc</span>
 
 <a href="https://github.com/komiyamma/vscode_ripgrep_sjis_extension"><img src="index_title_vsc.png" width="90" height="90"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="90" height="90"></a>
