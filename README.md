@@ -1,6 +1,6 @@
 ### 秀丸 / Ethereum Smart Contract / C++, C#.NET or Python, ECMAScript / Visual Studio Code
 
-<img src="index_title_maui_desk.png" width="300" height="142"><br>
+<img src="2x_index_title_maui_desk.png" width="300" height="142"><br>
 
 <a href="https://github.com/komiyamma/vscode_ripgrep_sjis_extension"><img src="index_title_vsc.png" width="90" height="90"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="90" height="90"></a>
