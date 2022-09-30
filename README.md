@@ -1,12 +1,10 @@
 ### MAUI / Visual Studio Code / 秀丸 / Ethereum Smart Contract / C++, C#.NET or Python, ECMAScript / 
 
-<style type="text/css">
-
-</style>
+# MAUI
 
 <img src="2x_index_title_maui_desk.png" width="300" height="142"><br>
 
-# <span style="font-family:'Darlington Demo';">abc</span>
+# Other Preference
 
 <a href="https://github.com/komiyamma/vscode_ripgrep_sjis_extension"><img src="index_title_vsc.png" width="90" height="90"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="90" height="90"></a>
@@ -15,7 +13,7 @@
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="90" height="90"></a>
 
 
-# 
+# Hidemaru Editor
 
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet"><img src="index_title_cs.png" width="90" height="90"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet_pinvoke"><img src="index_title_cs_com.png" width="90" height="90"></a>
