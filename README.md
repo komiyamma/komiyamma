@@ -15,7 +15,7 @@
 
 # Visual Studio Code
 
-<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="90" height="90"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="90" height="90"></a><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komiyamma&repo=vscode_ripgrep_sjis_extension)](https://github.com/komiyamma/vscode_ripgrep_sjis_extension)
 
 # Hidemaru Editor
