@@ -1,3 +1,5 @@
+<link href='https://fonts.googleapis.com/css?family=Caveat+Web:400,600,300,200&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
 ### MAUI / Visual Studio Code / 秀丸 / Ethereum Smart Contract / C++, C#.NET or Python, ECMAScript / 
 
 # MAUI
@@ -5,7 +7,8 @@
 <img src="2x_index_title_maui_desk.png" width="300" height="142"><br>
 
 # Other Preference
-
+abcdefg
+<font face="Caveat">abdefg<font/>
 <a href="#"><img src="index_title_vs2022.png" width="90" height="90"></a>
 <a href="https://github.com/komiyamma/vscode_ripgrep_sjis_extension"><img src="index_title_vsc.png" width="90" height="90"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="90" height="90"></a>
