@@ -4,7 +4,7 @@
 
 <img src="2x_index_title_maui_desk.png" width="300" height="142"><br>
 
-# Other Preference
+# Preference
 <a href="#"><img src="index_title_vs2022.png" width="90" height="90"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="90" height="90"></a>
 <a href="https://github.com/komiyamma/vscode_ripgrep_sjis_extension"><img src="index_title_vsc.png" width="90" height="90"></a>
