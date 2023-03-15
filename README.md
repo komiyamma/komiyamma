@@ -1,4 +1,4 @@
-### MAUI / Visual Studio Code / 秀丸 / Ethereum Smart Contract / C++, C#.NET or Python, ECMAScript / 
+### MAUI / Visual Studio Code / 秀丸 / Ethereum Smart Contract / OpanAI / C#.NET or Python, ECMAScript / 
 
 # MAUI
 
