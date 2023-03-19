@@ -23,6 +23,9 @@
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php"><img src="index_title_php.png" width="90" height="90"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_cpp_invoke"><img src="index_title_cpp.png" width="90" height="90"></a>
 
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_jsmode_ts_difinition)](https://github.com/komiyamma/hm_jsmode_ts_difinition)
+
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_com)](https://github.com/komiyamma/hm_dotnet_com)
 
@@ -34,9 +37,6 @@
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_javascript)](https://github.com/komiyamma/hm_javascript)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_powershell)](https://github.com/komiyamma/hm_powershell)
-
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_jsmode_ts_difinition)](https://github.com/komiyamma/hm_jsmode_ts_difinition)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
 
 # Visual Studio Code
 
