@@ -35,9 +35,6 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_javascript)](https://github.com/komiyamma/hm_javascript)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_powershell)](https://github.com/komiyamma/hm_powershell)
-
 # Visual Studio Code
 
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="90" height="90"></a><br>
