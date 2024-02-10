@@ -11,6 +11,11 @@
 <a href="https://en.wikipedia.org/wiki/The_Last_Guardian"><img src="index_title_tlg.png" width="90" height="90"></a>
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="90" height="90"></a>
 
+# Visual Studio Code
+
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="90" height="90"></a><br>
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_ripgrep_sjis_extension)](https://github.com/komiyamma/vscode_ripgrep_sjis_extension)
+
 # Hidemaru Editor
 
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet"><img src="index_title_cs.png" width="90" height="90"></a>
@@ -36,9 +41,3 @@
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
-
-
-# Visual Studio Code
-
-<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="90" height="90"></a><br>
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_ripgrep_sjis_extension)](https://github.com/komiyamma/vscode_ripgrep_sjis_extension)
