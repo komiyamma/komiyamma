@@ -1,7 +1,6 @@
 ### Visual Studio Code / Google Map API / 秀丸 / Ethereum Smart Contract / OpanAI / C#.NET or Python, ECMAScript / Unity / MAUI
 
-<img src="2x_index_title_maui_desk.png" width="300" height="142"><br>
-<img src="2x_index_googlemap.png.png" width="300" height="142"><br>
+<img src="2x_index_title_maui_desk.png" width="300" height="142"> <img src="2x_index_googlemap.png.png" width="300" height="142"><br>
 
 # Preference
 <a href="https://github.com/komiyamma/hm_openai_chatgpt35_turbo"><img src="index_title_chatgpt.png" width="90" height="90"></a>
