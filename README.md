@@ -1,4 +1,4 @@
-### Visual Studio Code / Google Map API / 秀丸 / Ethereum Smart Contract / OpanAI / C#.NET or Python, ECMAScript / Unity / MAUI
+### VSCode / 秀丸 / Ethereum / OpanAI / Google Map API / C# / Unity / MAUI
 
 <img src="2x_index_title_maui_desk.png" width="300" height="142"> <img src="2x_index_googlemap.png.png" width="300" height="142"><br>
 
