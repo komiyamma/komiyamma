@@ -1,4 +1,4 @@
-### VSCode / 秀丸 / Ethereum / OpanAI / Google Map API / C# / Unity / MAUI
+### VSCode / OpanAI / Gemini / Google Map API / C# / Unity / MAUI / Ethereum / 秀丸
 
 <img src="2x_index_title_maui_desk.png" width="300" height="142"> <img src="2x_index_googlemap.png" width="300" height="142"><br>
 
