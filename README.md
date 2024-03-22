@@ -1,6 +1,6 @@
 ### VSCode / OpanAI / Gemini / Google Map API / C# / Unity / MAUI / Ethereum / 秀丸
 
-<img src="2x_index_title_maui_desk.png" width="300" height="142"> <img src="2x_index_googlemap.png" width="300" height="142"> <img src="2x_index_csharp_logo.png" width="300" height="142"><br>
+<img src="2x_index_title_maui_desk.png" width="300" height="142"> <img src="2x_index_googlemap.png" width="150" height="142"> <img src="2x_index_csharp_logo.png" width="300" height="142"><br>
 
 # Preference
 <a href="https://github.com/komiyamma/hm_openai_chatgpt35_turbo"><img src="index_title_chatgpt.png" width="90" height="90"></a>
