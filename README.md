@@ -16,7 +16,7 @@
 
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="90" height="90"></a> <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.github100mbyteslimithook"><img src="index_vsc_git_100m.png" width="90" height="90"></a><br>
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_ripgrep_sjis_extension)](https://github.com/komiyamma/vscode_ripgrep_sjis_extension) 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_github100mbyteslimithook)](https://github.com/komiyamma/vscode_github100mbyteslimithook)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_github100m_limit_extension)](https://github.com/komiyamma/vscode_github100m_limit_extension)
 
 
 # Hidemaru Editor
