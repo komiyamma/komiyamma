@@ -1,9 +1,8 @@
 ### OpanAI / Gemini / Google Map API / C# / Unity / MAUI / Ethereum  / VSCode/ 秀丸
 
-
-<div align="center"><img src="komiyamma.png" width="512" height="512"><br></div>
-<div align="left">
-<img src="2x_index_title_maui_desk.png" width="300" height="142"> <img src="2x_index_googlemap_logo.png" width="150" height="142"> <img src="2x_index_csharp_logo.png" width="300" height="142"><br></div>
+<table><tr><td style="border:none" align="center"><img src="komiyamma.png" width="512" height="512"></td></tr>
+<tr><td style="border:none">
+<img src="2x_index_title_maui_desk.png" width="300" height="142"> <img src="2x_index_googlemap_logo.png" width="150" height="142"> <img src="2x_index_csharp_logo.png" width="300" height="142"></td></tr></table>
 
 # Preference
 <a href="https://github.com/komiyamma/hm_openai_chatgpt35_turbo"><img src="index_title_chatgpt.png" width="90" height="90"></a>
