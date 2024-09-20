@@ -28,6 +28,8 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt_writing)](https://github.com/komiyamma/hm_openai_chatgpt_writing)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
 
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_ai_translator)](https://github.com/komiyamma/hm_ai_translator)
+
 # Hidemaru Editor Language
 
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet"><img src="index_title_cs.png" width="90" height="90"></a>
