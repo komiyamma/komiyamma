@@ -18,6 +18,10 @@
 |-------|-------|
 | [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis) | [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit) |
 
+|  <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.htmlnormalizer"><img src="index_vsc_htmlnormalizer.png" width="90" height="90"></a>  | - |
+|-------|-------|
+| [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) | - |
+
 # Conversation AI
 <a href="https://github.com/komiyamma/hm_openai_chatgpt35_turbo"><img src="index_title_chatgpt.png" width="90" height="90"></a>
 <img src="index_title_gemini_pro.png" width="90" height="90">
