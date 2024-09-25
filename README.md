@@ -20,7 +20,7 @@
 
 |  <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.htmlnormalizer"><img src="index_vsc_htmlnormalizer.png" width="90" height="90"></a> | <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.url-capture"><img src="index_vsc_url_capture.png" width="90" height="90"></a> |
 |-------|-------|
-| [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_url_capture)](https://github.com/komiyamma/vscode_extension_url_capture) | - |
+| [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) | [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_url_capture)](https://github.com/komiyamma/vscode_extension_url_capture) |
 
 # Conversation AI
 <a href="https://github.com/komiyamma/hm_openai_chatgpt35_turbo"><img src="index_title_chatgpt.png" width="90" height="90"></a>
