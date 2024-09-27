@@ -1,5 +1,9 @@
 ### OpanAI / Gemini / Google Map API / C# / Unity / MAUI / Ethereum  / VSCode/ 秀丸
 
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="./font-awesome/css/font-awesome-plugin.css?v=001">
+<i class="fa fa-hdd-o fa-fw"></i>
+
 <img src="2x_index_title_maui_desk.png" width="300" height="142"> <img src="2x_index_googlemap_logo.png" width="150" height="142"> <img src="2x_index_csharp_logo.png" width="300" height="142">
 
 # Preference
