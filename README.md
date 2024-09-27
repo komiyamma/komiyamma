@@ -13,11 +13,7 @@
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="90" height="90"></a>
 
 # Visual Studio Code
-<style>
-markdown-accessiblity-table .table {
-    padding: 0px;
-}
-</style>
+
 |  <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="90" height="90"></a>  | <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.github100mbyteslimithook"><img src="index_vsc_git_100m.png" width="90" height="90"></a> |
 |-------|-------|
 | [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis) | [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit) |
