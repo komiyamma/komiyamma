@@ -28,10 +28,8 @@
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_gpt)](https://github.com/komiyamma/hm_openai_gpt)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_google_gemini)](https://github.com/komiyamma/hm_google_gemini)
-
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt_writing)](https://github.com/komiyamma/hm_openai_chatgpt_writing)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
-
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_ai_translator)](https://github.com/komiyamma/hm_ai_translator)
 
 # Hidemaru Editor Language
@@ -46,10 +44,8 @@
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_jsmode_ts_difinition)](https://github.com/komiyamma/hm_jsmode_ts_difinition)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
-
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_com)](https://github.com/komiyamma/hm_dotnet_com)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
-
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
 
