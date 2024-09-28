@@ -3,8 +3,7 @@
 
 ### OpanAI / Gemini / Google Map / C# / MAUI / Visua Studio / VSCode/ 秀丸
 
-<img src="2x_index_title_maui_desk.png" width="150" height="71">  
-<img src="2x_index_csharp_logo.png" width="150" height="71"> <img src="2x_index_googlemap_logo.png" width="75" height="71">
+<img src="2x_index_title_maui_desk.png" width="150" height="71"> <img src="2x_index_csharp_logo.png" width="150" height="71"> <img src="2x_index_googlemap_logo.png" width="75" height="71">
 
 <a href="https://github.com/komiyamma/hm_openai_chatgpt35_turbo"><img src="index_title_chatgpt.png" width="60" height="60"></a>
 <img src="index_title_gemini_pro.png" width="60" height="60">
