@@ -1,8 +1,12 @@
-### OpanAI / Gemini / Google Map / C# / MAUI / VisuaVisual Studio / VSCode/ 秀丸
-
-<img src="2x_index_title_maui_desk.png" width="300" height="142"> <img src="2x_index_googlemap_logo.png" width="150" height="142"> <img src="2x_index_csharp_logo.png" width="300" height="142">
 
 # Preference
+
+<img src="2x_index_title_maui_desk.png" width="300" height="142">
+
+### OpanAI / Gemini / Google Map / C# / MAUI / VisuaVisual Studio / VSCode/ 秀丸
+
+<img src="2x_index_csharp_logo.png" width="300" height="142"> <img src="2x_index_googlemap_logo.png" width="150" height="142">
+
 <a href="https://github.com/komiyamma/hm_openai_chatgpt35_turbo"><img src="index_title_chatgpt.png" width="90" height="90"></a>
 <img src="index_title_gemini_pro.png" width="90" height="90">
 <a href="#"><img src="index_title_vs2022.png" width="90" height="90"></a>
