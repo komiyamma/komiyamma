@@ -27,7 +27,7 @@
 
 # Hidemaru Editor Conversation AI
 <a href="https://github.com/komiyamma/hm_openai_gpt"><img src="index_title_chatgpt.png" width="90" height="90"></a>
-<img src="index_title_gemini_pro.png" width="90" height="90">
+<a href="https://github.com/komiyamma/hm_google_gemini"><img src="index_title_gemini_pro.png" width="90" height="90"></a>
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_gpt)](https://github.com/komiyamma/hm_openai_gpt)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_google_gemini)](https://github.com/komiyamma/hm_google_gemini)
