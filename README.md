@@ -25,7 +25,6 @@
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit)  
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_url_capture)](https://github.com/komiyamma/vscode_extension_url_capture)  
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_norm_to_standard_japan_char)](https://github.com/komiyamma/vscode_extension_norm_to_standard_japan_char) 
 
 # Hidemaru Editor Conversation AI
 <a href="https://github.com/komiyamma/hm_openai_gpt"><img src="index_title_chatgpt.png" width="60" height="60"></a>
