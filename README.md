@@ -29,12 +29,14 @@
 # Hidemaru Editor Conversation AI
 <a href="https://github.com/komiyamma/hm_openai_gpt"><img src="index_title_chatgpt.png" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_google_gemini"><img src="index_title_gemini_pro.png" width="60" height="60"></a>
+<a href="https://github.com/komiyamma/hm_x_grok_web"><img src="index_title_grok.png" width="60" height="60"></a>
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_gpt)](https://github.com/komiyamma/hm_openai_gpt)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_google_gemini)](https://github.com/komiyamma/hm_google_gemini)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt_writing)](https://github.com/komiyamma/hm_openai_chatgpt_writing)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_ai_translator)](https://github.com/komiyamma/hm_ai_translator)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_x_grok_web)](https://github.com/komiyamma/hm_x_grok_web)
 
 # Hidemaru Editor Language
 
