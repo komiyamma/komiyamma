@@ -39,7 +39,7 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_x_grok_web)](https://github.com/komiyamma/hm_x_grok_web)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_ms_copilot_web)](https://github.com/komiyamma/hm_ms_copilot_web)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_google_gemini_web)](https://github.com/komiyamma/hm_google_gemini_web)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_chatgpt_web)](https://github.com/komiyamma/hm_chatgpt_web)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_chatgpt_web)](https://github.com/komiyamma/hm_chatgpt_web2)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_deepseek_web)](https://github.com/komiyamma/hm_deepseek_web)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_github_copilot_chat_web)](https://github.com/komiyamma/hm_github_copilot_chat_web)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_anthropic_claude_web)](https://github.com/komiyamma/hm_anthropic_claude_web)
