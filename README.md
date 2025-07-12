@@ -31,9 +31,10 @@
 <a href="https://github.com/komiyamma/hm_google_gemini"><img src="index_title_gemini_pro.png" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_x_grok_web"><img src="index_title_grok.png" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_ms_copilot_web"><img src="index_title_ms_copilot.png" width="60" height="60"></a>
-<a href="https://github.com/komiyamma/hm_deepseek_web"><img src="index_title_deepseek.png" width="72" height="60"></a>
 <a href="https://github.com/komiyamma/hm_github_copilot_web"><img src="index_title_github_copilot.png" width="62" height="60"></a>
 <a href="https://github.com/komiyamma/hm_anthropic_web"><img src="index_title_anthropic.png" width="60" height="60"></a>
+<a href="https://github.com/komiyamma/hm_deepseek_web"><img src="index_title_deepseek.png" width="72" height="60"></a>
+<a href="https://github.com/komiyamma/hm_perplexity_web"><img src="index_title_perplexity.png" width="60" height="60"></a>
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_gpt)](https://github.com/komiyamma/hm_openai_gpt)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_google_gemini)](https://github.com/komiyamma/hm_google_gemini)
@@ -43,11 +44,11 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_google_gemini_web)](https://github.com/komiyamma/hm_google_gemini_web)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_chatgpt_web)](https://github.com/komiyamma/hm_chatgpt_web)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_github_copilot_chat_web)](https://github.com/komiyamma/hm_github_copilot_chat_web)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_deepseek_web)](https://github.com/komiyamma/hm_deepseek_web)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_anthropic_claude_web)](https://github.com/komiyamma/hm_anthropic_claude_web)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt_writing)](https://github.com/komiyamma/hm_openai_chatgpt_writing)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_deepseek_web)](https://github.com/komiyamma/hm_deepseek_web)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_perplexity_web)](https://github.com/komiyamma/hm_perplexity_web)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
-
+<!--  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_openai_chatgpt_writing)](https://github.com/komiyamma/hm_openai_chatgpt_writing) -->
 # Hidemaru Editor Language
 
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet"><img src="index_title_cs.png" width="60" height="60"></a>
