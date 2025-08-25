@@ -64,8 +64,10 @@
 
 # Hidemaru Editor Preview
 
-<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_markdown_simple_server"><img src="index_md_simple_svr.png" width="80" height="60"></a><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php_simple_server"><img src="index_php_simple_svr.png" width="80" height="60"></a>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_markdown_simple_server"><img src="index_md_simple_svr.png" width="80" height="60"></a>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php_simple_server"><img src="index_php_simple_svr.png" width="80" height="60"></a>
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_markdown_simple_server)](https://github.com/komiyamma/hm_markdown_simple_server)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_markdown_simple_render)](https://github.com/komiyamma/hm_markdown_simple_render)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=hm_php_simple_server)](https://github.com/komiyamma/hm_php_simple_server)
 
