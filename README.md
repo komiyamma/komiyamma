@@ -4,6 +4,8 @@
 ### OpanAI / Gemini / Google Map / C# / MAUI / Visua Studio / VSCode/ Kiro / 秀丸
 
 <img src="2x_index_title_maui_desk.png" width="150" height="71"> <img src="2x_index_csharp_logo.png" width="150" height="71"> <img src="2x_index_googlemap_logo.png" width="75" height="71">
+<img src="2x_index_googlemap_logo.png" width="75" height="71">
+<img src="index_title_tlg.png" width="126" height="71">
 
 <img src="index_title_chatgpt.png" width="60" height="60"> <img src="index_title_gemini_pro.png" width="60" height="60"> <img src="index_title_github_copilot.png" width="62" height="60"> <img src="index_title_ms_copilot.png" width="60" height="60"> <img src="index_title_vs2022.png" width="60" height="60"> <img src="index_title_vsc.png" width="60" height="60"> <a href="https://kiro.dev/"><img src="index_title_kiro.png" width="60" height="60"></a> <a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="60" height="60"></a>
 
