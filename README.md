@@ -18,10 +18,18 @@
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.github100mbyteslimithook"><img src="index_vsc_git_100m.png" width="60" height="60"></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.htmlnormalizer"><img src="index_vsc_htmlnormalizer.png" width="60" height="60"></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.url-capture"><img src="index_vsc_url_capture.png" width="60" height="60"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.normtostandardjapanchar"><img src="index_vsc_normtostandardjapanchar.png" width="60" height="60"></a>
+
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit)  
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_url_capture)](https://github.com/komiyamma/vscode_extension_url_capture)  
+
+# Kiro / VSCode
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-codex"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-gemini-cli"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>  
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_commit_message_gene_by_codex)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_codex )
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_commit_message_gene_by_gemini_cli)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_gemini_cli)  
+
+
 
 # Hidemaru Editor Conversation AI
 <a href="https://github.com/komiyamma/hm_openai_gpt"><img src="index_title_chatgpt.png" width="60" height="60"></a>
