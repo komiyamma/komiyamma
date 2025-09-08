@@ -23,7 +23,7 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit)  
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_url_capture)](https://github.com/komiyamma/vscode_extension_url_capture)  
 
-# Kiro | VSCode
+# Kiro <font color="#999999">|</font> VSCode
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-codex"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-gemini-cli"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>  
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=komiyamma&repo=vscode_extension_commit_message_gene_by_codex)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_codex )
