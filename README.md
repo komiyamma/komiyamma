@@ -8,6 +8,10 @@
 
 <img src="index_title_chatgpt.png" width="60" height="60"> <img src="index_title_gemini_pro.png" width="60" height="60"> <img src="index_title_github_copilot.png" width="62" height="60"> <img src="index_title_ms_copilot.png" width="60" height="60"> <a href="https://jules.google.com/"><img src="index_title_jules.png" width="60" height="60"></a> <img src="index_title_vs2026.png" width="60" height="60"> <img src="index_title_vsc.png" width="60" height="60"> <a href="https://kiro.dev/"><img src="index_title_kiro.png" width="60" height="60"></a> <a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="60" height="60"></a> <a href="https://github.com/banana-nano"><img src="index-banana-nano-anime.png" width="57" height="60"></a>
 
+# Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=komiyamma&layout=compact&langs_count=10&size_weight=0.1&count_weight=0.90hide=makefile,assembly,powershell,batchfile,m4,shell&&exclude_repo=hm_php8,hm_python3)
+
 <!-- a href="https://etherscan.io/address/0xe067433833636d2a5acbb42a219c7a97651e63bd#code"><img src="index_title_eth.png" width="60" height="60"></！a>
 <a href="https://en.wikipedia.org/wiki/The_Last_Guardian"><img src="index_title_tlg.png" width="60" height="60"></a>
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="60" height="60"></a -->
