@@ -10,7 +10,7 @@
 
 # Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=komiyamma&layout=compact&langs_count=10&size_weight=0.1&count_weight=0.9&hide=makefile,assembly,powershell,batchfile,m4,shell&&exclude_repo=hm_php8,hm_python3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=komiyamma&layout=compact&langs_count=12&size_weight=0.1&count_weight=0.9&hide=makefile,assembly,powershell,batchfile,m4,shell&&exclude_repo=hm_php8,hm_python3)
 
 <!-- a href="https://etherscan.io/address/0xe067433833636d2a5acbb42a219c7a97651e63bd#code"><img src="index_title_eth.png" width="60" height="60"></！a>
 <a href="https://en.wikipedia.org/wiki/The_Last_Guardian"><img src="index_title_tlg.png" width="60" height="60"></a>
