@@ -54,7 +54,7 @@
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=perlexity&username=komiyamma&repo=hm_perplexity_web)](https://github.com/komiyamma/hm_perplexity_web)<!--  [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_openai_chatgpt_writing)](https://github.com/komiyamma/hm_openai_chatgpt_writing) -->
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=openai&username=komiyamma&repo=hm_openai_gpt)](https://github.com/komiyamma/hm_openai_gpt)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=gemini&username=komiyamma&repo=hm_google_gemini)](https://github.com/komiyamma/hm_google_gemini)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_ai_translator)](https://github.com/komiyamma/hm_ai_translator)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=langtrans&username=komiyamma&repo=hm_ai_translator)](https://github.com/komiyamma/hm_ai_translator)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=openai&username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
 
 # Hidemaru Editor Language
