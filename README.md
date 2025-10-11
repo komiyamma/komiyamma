@@ -67,12 +67,12 @@
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php"><img src="index_title_php.png" width="60" height="60"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_cpp_invoke"><img src="index_title_cpp.png" width="60" height="60"></a>
 
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_jsmode_ts_difinition)](https://github.com/komiyamma/hm_jsmode_ts_difinition)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3title_prefix_icon=python&username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=csharp&username=komiyamma&repo=hm_dotnet_com)](https://github.com/komiyamma/hm_dotnet_com)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=csharp&username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=typescript&username=komiyamma&repo=hm_jsmode_ts_difinition)](https://github.com/komiyamma/hm_jsmode_ts_difinition)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=python&username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=csharp&username=komiyamma&repo=hm_dotnet_com)](https://github.com/komiyamma/hm_dotnet_com)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=5&title_prefix_icon=csharp&username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=php&username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=cpp&username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=6&title_prefix_icon=cpp&username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
 
 # Hidemaru Editor Preview
 
