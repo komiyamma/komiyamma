@@ -72,7 +72,7 @@
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=csharp&username=komiyamma&repo=hm_dotnet_com)](https://github.com/komiyamma/hm_dotnet_com)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=5&title_prefix_icon=csharp&username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=php&username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=8&title_prefix_icon=cpp&username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=9&title_prefix_icon=cpp&username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
 
 # Hidemaru Editor Preview
 
