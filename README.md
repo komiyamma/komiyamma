@@ -39,7 +39,7 @@
 # Hidemaru Editor Conversation AI
 <a href="https://github.com/komiyamma/hm_openai_gpt"><img src="index_title_chatgpt.png?v=2" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_google_gemini"><img src="index_title_gemini_pro.png" width="60" height="60"></a>
-<a href="https://github.com/komiyamma/hm_x_grok_web"><img src="index_title_grok.png" width="60" height="60"></a>
+<a href="https://github.com/komiyamma/hm_x_grok_web"><img src="index_title_grok.png?v=2" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_ms_copilot_web"><img src="index_title_ms_copilot.png" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_github_copilot_web"><img src="index_title_github_copilot.png?v=2" height="60"></a>
 <a href="https://github.com/komiyamma/hm_anthropic_web"><img src="index_title_anthropic.png" width="60" height="60"></a>
