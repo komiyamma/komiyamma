@@ -1,7 +1,7 @@
 
 # Preference
 
-### OpanAI / Gemini / Google Map / C# / MAUI / Visua Studio / VSCode/ Kiro / 秀丸
+### OpanAI / Gemini / Google Map / C# / MAUI / Visua Studio / VSCode/ AntiGravity / Kiro / 秀丸
 
 <img src="2x_index_csharp_logo.png" width="150" height="71"> <img src="2x_index_googlemap_logo.png" width="75" height="71"> 
 <a href="https://www.playstation.com/games/the-last-guardian/"><img src="index_title_tlg.png" width="99" height="71"></a>
