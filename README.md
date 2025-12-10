@@ -1,12 +1,12 @@
 
 # Preference
 
-### OpanAI / Gemini / Google Map / C# / MAUI / Visua Studio / VSCode/ AntiGravity / Kiro / 秀丸
+### OpanAI / Gemini / Google Map / C# / MAUI / Visua Studio / AntiGravity / VSCode/ 秀丸
 
 <img src="2x_index_csharp_logo.png" width="150" height="71"> <img src="2x_index_googlemap_logo.png" width="75" height="71"> 
 <a href="https://www.playstation.com/games/the-last-guardian/"><img src="index_title_tlg.png" width="99" height="71"></a>
 
-<img src="index_title_chatgpt.png?v=2" width="60" height="60"> <img src="index_title_gemini_pro.png" width="60" height="60"> <img src="index_title_github_copilot.png?v=2" height="60"> <img src="index_title_ms_copilot.png" width="60" height="60"> <a href="https://jules.google.com/"><img src="index_title_jules.png?v=3" width="60" height="60"></a> <img src="index_title_vs2026.png" width="60" height="60"> <img src="index_title_vsc.png" width="60" height="60"> <a href="https://antigravity.google/"><img src="index_title_antigravity.png" height="60"></a> <a href="https://kiro.dev/"><img src="index_title_kiro.png" width="60" height="60"></a> <a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="60" height="60"></a> <a href="https://github.com/banana-nano"><img src="index-banana-nano-anime.png" width="57" height="60"></a>
+<img src="index_title_chatgpt.png?v=2" width="60" height="60"> <img src="index_title_gemini_pro.png" width="60" height="60"> <img src="index_title_github_copilot.png?v=2" height="60"> <img src="index_title_ms_copilot.png" width="60" height="60"> <a href="https://jules.google.com/"><img src="index_title_jules.png?v=3" width="60" height="60"></a> <img src="index_title_vs2026.png" width="60" height="60"> <a href="https://antigravity.google/"><img src="index_title_antigravity.png" height="60"></a> <img src="index_title_vsc.png" width="60" height="60"> <a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="60" height="60"></a> <a href="https://github.com/banana-nano"><img src="index-banana-nano-anime.png" width="57" height="60"></a>
 
 # Languages
 
