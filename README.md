@@ -29,7 +29,7 @@
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit)  
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_url_capture)](https://github.com/komiyamma/vscode_extension_url_capture)  
 
-# Antigravity / Kiro / VSCode
+# Antigravity / VSCodium / Kiro / VSCode
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-codex"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-gemini-cli"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>  
 
@@ -45,7 +45,6 @@
 <a href="https://github.com/komiyamma/hm_ms_copilot_web"><img src="index_title_ms_copilot.png" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_github_copilot_web"><img src="index_title_github_copilot.png?v=2" height="60"></a>
 <a href="https://github.com/komiyamma/hm_anthropic_web"><img src="index_title_anthropic.png" width="60" height="60"></a>
-<a href="https://github.com/komiyamma/hm_deepseek_web"><img src="index_title_deepseek.png" width="72" height="60"></a>
 <a href="https://github.com/komiyamma/hm_perplexity_web"><img src="index_title_perplexity.png" width="60" height="60"></a>
 
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=grok&username=komiyamma&repo=hm_x_grok_web)](https://github.com/komiyamma/hm_x_grok_web)<!-- [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_ms_copilot_web)](https://github.com/komiyamma/hm_ms_copilot_web) -->
