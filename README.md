@@ -34,7 +34,7 @@
 <a href="https://open-vsx.org/extension/komiyamma/commit-message-gene-by-ghcopilot"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>  
 
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=6&title_prefix_icon=antigravity&username=komiyamma&repo=vscode_extension_commit_message_gene_by_codex)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_codex )
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=4&title_prefix_icon=antigravity&username=komiyamma&repo=vscode-extension-commit-message-gene-by-ghcopilot)](https://github.com/komiyamma/vscode-extension-commit-message-gene-by-ghcopilot)  
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=4&title_prefix_icon=cursor&username=komiyamma&repo=vscode-extension-commit-message-gene-by-ghcopilot)](https://github.com/komiyamma/vscode-extension-commit-message-gene-by-ghcopilot)  
 
 
 
