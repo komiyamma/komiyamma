@@ -36,7 +36,7 @@
 
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=antigravity&username=komiyamma&repo=vscode_extension_commit_message_gene_by_codex)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_codex )
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=6&title_prefix_icon=vscodium&username=komiyamma&repo=vscode-extension-commit-message-gene-by-ghcopilot)](https://github.com/komiyamma/vscode-extension-commit-message-gene-by-ghcopilot)  
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=8&title_prefix_icon=vscodium&username=komiyamma&repo=vscode_extension_commit_message_gene_by_gemini_cli)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_gemini_cli)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=9&title_prefix_icon=vscodium&username=komiyamma&repo=vscode_extension_commit_message_gene_by_gemini_cli)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_gemini_cli)
 
 # Hidemaru Editor Conversation AI
 <a href="https://github.com/komiyamma/hm_openai_gpt"><img src="index_title_chatgpt.png?v=2" width="60" height="60"></a>
