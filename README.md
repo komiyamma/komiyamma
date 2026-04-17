@@ -18,27 +18,24 @@
 <a href="https://en.wikipedia.org/wiki/The_Last_Guardian"><img src="index_title_tlg.png" width="60" height="60"></a>
 <a href="https://ja.wikipedia.org/wiki/PlayMemories"><img src="index_title_pms.png" width="60" height="60"></a -->
 
-# Visual Studio Code
 
+# VSCode Extension
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-codex"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
+<a href="https://open-vsx.org/extension/komiyamma/commit-message-gene-by-ghcopilot"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-gemini-cli"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.github100mbyteslimithook"><img src="index_vsc_git_100m.png" width="60" height="60"></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.htmlnormalizer"><img src="index_vsc_htmlnormalizer.png" width="60" height="60"></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="60" height="60"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.url-capture"><img src="index_vsc_url_capture.png" width="60" height="60"></a>
 
 
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) 
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_url_capture)](https://github.com/komiyamma/vscode_extension_url_capture)
-
-# Antigravity / VSCodium / Kiro / Cursor/ 
-<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-codex"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
-<a href="https://open-vsx.org/extension/komiyamma/commit-message-gene-by-ghcopilot"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-gemini-cli"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>  
 
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=codex&username=komiyamma&repo=vscode_extension_commit_message_gene_by_codex)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_codex )
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=ghcopilot&username=komiyamma&repo=vscode-extension-commit-message-gene-by-ghcopilot)](https://github.com/komiyamma/vscode-extension-commit-message-gene-by-ghcopilot)  
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=9&title_prefix_icon=gemini&username=komiyamma&repo=vscode_extension_commit_message_gene_by_gemini_cli)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_gemini_cli)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis)
 
-# Hidemaru Editor Conversation AI
+
+# Hidemaru Extension (Conversation AI)
 <a href="https://github.com/komiyamma/hm_openai_gpt"><img src="index_title_chatgpt.png?v=2" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_google_gemini"><img src="index_title_gemini_pro.png" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_x_grok_web"><img src="index_title_grok.png?v=2" width="60" height="60"></a>
@@ -58,7 +55,7 @@
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=langtrans&username=komiyamma&repo=hm_ai_translator)](https://github.com/komiyamma/hm_ai_translator)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=openai&username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
 
-# Hidemaru Editor Language
+# Hidemaru Extension (Embedded Programming)
 
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet"><img src="index_title_cs.png" width="60" height="60"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet_pinvoke"><img src="index_title_cs_com.png" width="60" height="60"></a>
@@ -75,7 +72,7 @@
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=php&username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=9&title_prefix_icon=cpp&username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
 
-# Hidemaru Editor Preview
+# Hidemaru Extension (Preview)
 
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_markdown_simple_server"><img src="index_md_simple_svr.png" width="80" height="60"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php_simple_server"><img src="index_php_simple_svr.png" width="80" height="60"></a>
