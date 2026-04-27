@@ -1,4 +1,4 @@
-<img src="./for_twitter_back.png">
+<img src="./for_twitter_back2.png">
 
 # Preference
 
