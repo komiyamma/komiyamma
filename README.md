@@ -4,26 +4,11 @@
 
 ### OpanAI / Gemini / Google Map / C# / MAUI / Visua Studio / AntiGravity / VSCode/ 秀丸
 
-<table><tr>
-<td><img src="2x_index_csharp_logo.png" width="150" height="71"></td>
-<td><img src="2x_index_googlemap_logo.png" width="75" height="71"></td>
-<td><a href="https://www.playstation.com/games/the-last-guardian/"><img src="index_title_tlg.png" width="99" height="71"></a></td>
-</tr></table>
+<img src="2x_index_csharp_logo.png" width="150" height="71"> <img src="2x_index_googlemap_logo.png" width="75" height="71"> 
+<a href="https://www.playstation.com/games/the-last-guardian/"><img src="index_title_tlg.png" width="99" height="71"></a>
 
-<table><tr>
-<td><img src="index_title_gemini_pro.png" width="60" height="60"></td>
-<td><img src="index_title_github_copilot.png?v=2" height="60"></td>
-<td><img src="index_title_chatgpt.png?v=2" width="60" height="60"></td>
-<td><a href="https://openai.com/codex"><img src="index_title_codex.png?v=2" width="60" height="60"></a></td>
-<td><a href="https://jules.google.com/"><img src="index_title_jules.png" width="60" height="60"></a></td>
-<td><a href="https://code.claude.com/docs/ja/overview"><img src="index-claudecode.png?v=3" width="60" height="60"></a></td>
-<td><img src="index_title_vs2026.png" width="60" height="60"></td>
-<td><img src="index_title_vsc.png" width="60" height="60"></td>
-<td><a href="https://antigravity.google/"><img src="index_title_antigravity.png" height="60"></a></td>
-<td><a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="60" height="60"></a></td>
-<td><a href="https://github.com/banana-hime"><img src="index-banana-nano-anime.png" width="57" height="60"></a></td>
-<td><a href="https://palettina.art/"><img src="index-palettina.png" width="60" height="60"></a></td>
-</tr></table>
+<img src="index_title_gemini_pro.png" width="60" height="60"> <img src="index_title_github_copilot.png?v=2" height="60"> <img src="index_title_chatgpt.png?v=2" width="60" height="60"> <a href="https://openai.com/codex"><img src="index_title_codex.png?v=2" width="60" height="60"></a> <a href="https://jules.google.com/"><img src="index_title_jules.png" width="60" height="60"></a> <a href="https://code.claude.com/docs/ja/overview"><img src="index-claudecode.png?v=3" width="60" height="60"></a> <img src="index_title_vs2026.png" width="60" height="60"> <img src="index_title_vsc.png" width="60" height="60"> <a href="https://antigravity.google/"><img src="index_title_antigravity.png" height="60"></a><a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="60" height="60"></a><a href="https://github.com/banana-hime"><img src="index-banana-nano-anime.png" width="57" height="60"></a>
+<a href="https://palettina.art/"><img src="index-palettina.png" width="60" height="60"></a>
 
 # Languages
 
@@ -35,14 +20,12 @@
 
 
 # VSCode Extension
-<table><tr>
-<td><a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-codex"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a></td>
-<td><a href="https://open-vsx.org/extension/komiyamma/commit-message-gene-by-ghcopilot"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a></td>
-<td><a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-gemini-cli"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a></td>
-<td><a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.github100mbyteslimithook"><img src="index_vsc_git_100m.png" width="60" height="60"></a></td>
-<td><a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.htmlnormalizer"><img src="index_vsc_htmlnormalizer.png" width="60" height="60"></a></td>
-<td><a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="60" height="60"></a></td>
-</tr></table>
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-codex"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
+<a href="https://open-vsx.org/extension/komiyamma/commit-message-gene-by-ghcopilot"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.commit-message-gene-by-gemini-cli"><img src="index_vsc_commit_msg_gene.png" width="60" height="60"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.github100mbyteslimithook"><img src="index_vsc_git_100m.png" width="60" height="60"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.htmlnormalizer"><img src="index_vsc_htmlnormalizer.png" width="60" height="60"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=komiyamma.rg-sjis"><img src="index_vsc_rg_sjis.png" width="60" height="60"></a>
 
 
 
@@ -53,15 +36,13 @@
 
 
 # Hidemaru Extension (Conversation AI)
-<table><tr>
-<td><a href="https://github.com/komiyamma/hm_openai_gpt"><img src="index_title_chatgpt.png?v=2" width="60" height="60"></a></td>
-<td><a href="https://github.com/komiyamma/hm_google_gemini"><img src="index_title_gemini_pro.png" width="60" height="60"></a></td>
-<td><a href="https://github.com/komiyamma/hm_x_grok_web"><img src="index_title_grok.png?v=2" width="60" height="60"></a></td>
-<td><a href="https://github.com/komiyamma/hm_ms_copilot_web"><img src="index_title_ms_copilot.png" width="60" height="60"></a></td>
-<td><a href="https://github.com/komiyamma/hm_github_copilot_web"><img src="index_title_github_copilot.png?v=2" height="60"></a></td>
-<td><a href="https://github.com/komiyamma/hm_anthropic_web"><img src="index_title_anthropic.png" width="60" height="60"></a></td>
-<td><a href="https://github.com/komiyamma/hm_perplexity_web"><img src="index_title_perplexity.png" width="60" height="60"></a></td>
-</tr></table>
+<a href="https://github.com/komiyamma/hm_openai_gpt"><img src="index_title_chatgpt.png?v=2" width="60" height="60"></a>
+<a href="https://github.com/komiyamma/hm_google_gemini"><img src="index_title_gemini_pro.png" width="60" height="60"></a>
+<a href="https://github.com/komiyamma/hm_x_grok_web"><img src="index_title_grok.png?v=2" width="60" height="60"></a>
+<a href="https://github.com/komiyamma/hm_ms_copilot_web"><img src="index_title_ms_copilot.png" width="60" height="60"></a>
+<a href="https://github.com/komiyamma/hm_github_copilot_web"><img src="index_title_github_copilot.png?v=2" height="60"></a>
+<a href="https://github.com/komiyamma/hm_anthropic_web"><img src="index_title_anthropic.png" width="60" height="60"></a>
+<a href="https://github.com/komiyamma/hm_perplexity_web"><img src="index_title_perplexity.png" width="60" height="60"></a>
 
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=grok&username=komiyamma&repo=hm_x_grok_web)](https://github.com/komiyamma/hm_x_grok_web)<!-- [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_ms_copilot_web)](https://github.com/komiyamma/hm_ms_copilot_web) -->
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=gemini&username=komiyamma&repo=hm_google_gemini_web)](https://github.com/komiyamma/hm_google_gemini_web)
@@ -76,15 +57,13 @@
 
 # Hidemaru Extension (Embedded Programming)
 
-<table><tr>
-<td><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet"><img src="index_title_cs.png" width="60" height="60"></a></td>
-<td><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet_pinvoke"><img src="index_title_cs_com.png" width="60" height="60"></a></td>
-<td><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_jsmode_ts_difinition"><img src="index_title_jsmode_ts.png" width="110" height="60"></a></td>
-<td><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_python3"><img src="index_title_py.png" width="60" height="60"></a></td>
-<td><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_ecmascript"><img src="index_title_v8.png" width="60" height="60"></a></td>
-<td><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php"><img src="index_title_php.png" width="60" height="60"></a></td>
-<td><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_cpp_invoke"><img src="index_title_cpp.png" width="60" height="60"></a></td>
-</tr></table>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet"><img src="index_title_cs.png" width="60" height="60"></a>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_dotnet_pinvoke"><img src="index_title_cs_com.png" width="60" height="60"></a>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_jsmode_ts_difinition"><img src="index_title_jsmode_ts.png" width="110" height="60"></a>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_python3"><img src="index_title_py.png" width="60" height="60"></a>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_ecmascript"><img src="index_title_v8.png" width="60" height="60"></a>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php"><img src="index_title_php.png" width="60" height="60"></a>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_cpp_invoke"><img src="index_title_cpp.png" width="60" height="60"></a>
 
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=typescript&username=komiyamma&repo=hm_jsmode_ts_difinition)](https://github.com/komiyamma/hm_jsmode_ts_difinition)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=python&username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
@@ -95,10 +74,8 @@
 
 # Hidemaru Extension (Preview)
 
-<table><tr>
-<td><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_markdown_simple_server"><img src="index_md_simple_svr.png" width="80" height="60"></a></td>
-<td><a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php_simple_server"><img src="index_php_simple_svr.png" width="80" height="60"></a></td>
-</tr></table>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_markdown_simple_server"><img src="index_md_simple_svr.png" width="80" height="60"></a>
+<a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php_simple_server"><img src="index_php_simple_svr.png" width="80" height="60"></a>
 
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=markdown&username=komiyamma&repo=hm_markdown_simple_server)](https://github.com/komiyamma/hm_markdown_simple_server)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=markdown&username=komiyamma&repo=hm_markdown_simple_render)](https://github.com/komiyamma/hm_markdown_simple_render)
