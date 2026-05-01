@@ -4,11 +4,11 @@
 
 ### OpanAI / Gemini / Google Map / C# / MAUI / Visua Studio / AntiGravity / VSCode/ 秀丸
 
-![C#](2x_index_csharp_logo.png) ![Google Map](2x_index_googlemap_logo.png)
-[![The Last Guardian](index_title_tlg.png)](https://www.playstation.com/games/the-last-guardian/)
+<img src="2x_index_csharp_logo.png" width="150" height="71"> <img src="2x_index_googlemap_logo.png" width="75" height="71"> 
+<a href="https://www.playstation.com/games/the-last-guardian/"><img src="index_title_tlg.png" width="99" height="71"></a>
 
-![Gemini Pro](index_title_gemini_pro.png) ![GitHub Copilot](index_title_github_copilot.png?v=2) ![ChatGPT](index_title_chatgpt.png?v=2) [![Codex](index_title_codex.png?v=2)](https://openai.com/codex) [![Jules](index_title_jules.png)](https://jules.google.com/) [![Claude Code](index-claudecode.png?v=3)](https://code.claude.com/docs/ja/overview) ![VS2026](index_title_vs2026.png) ![VSCode](index_title_vsc.png) [![AntiGravity](index_title_antigravity.png)](https://antigravity.google/) [![秀丸](index_title_hm.png)](https://xn--pckzexbx21r8q9b.net/) [![banana-hime](index-banana-nano-anime.png)](https://github.com/banana-hime)
-[![Palettina](index-palettina.png)](https://palettina.art/)
+<img src="index_title_gemini_pro.png" width="60" height="60"> <img src="index_title_github_copilot.png?v=2" height="60"> <img src="index_title_chatgpt.png?v=2" width="60" height="60"> <a href="https://openai.com/codex"><img src="index_title_codex.png?v=2" width="60" height="60"></a> <a href="https://jules.google.com/"><img src="index_title_jules.png" width="60" height="60"></a> <a href="https://code.claude.com/docs/ja/overview"><img src="index-claudecode.png?v=3" width="60" height="60"></a> <img src="index_title_vs2026.png" width="60" height="60"> <img src="index_title_vsc.png" width="60" height="60"> <a href="https://antigravity.google/"><img src="index_title_antigravity.png" height="60"></a><a href="https://xn--pckzexbx21r8q9b.net/"><img src="index_title_hm.png" width="60" height="60"></a><a href="https://github.com/banana-hime"><img src="index-banana-nano-anime.png" width="57" height="60"></a>
+<a href="https://palettina.art/"><img src="index-palettina.png" width="60" height="60"></a>
 
 # Languages
 
