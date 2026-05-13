@@ -83,6 +83,6 @@
 
 # Others
 
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/username=komiyamma&repo=win32-darkmode)](https://github.com/komiyamma/win32-darkmode)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin?username=komiyamma&repo=win32-darkmode)](https://github.com/komiyamma/win32-darkmode)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin?username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
 
