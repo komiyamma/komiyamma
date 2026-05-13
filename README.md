@@ -29,10 +29,10 @@
 
 
 
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=codex&username=komiyamma&repo=vscode_extension_commit_message_gene_by_codex)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_codex )
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=ghcopilot&username=komiyamma&repo=vscode-extension-commit-message-gene-by-ghcopilot)](https://github.com/komiyamma/vscode-extension-commit-message-gene-by-ghcopilot)  
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=9&title_prefix_icon=gemini&username=komiyamma&repo=vscode_extension_commit_message_gene_by_gemini_cli)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_gemini_cli)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=git&username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=htmltag&username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=6&title_prefix_icon=search&username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=codex&theme=transparent&username=komiyamma&repo=vscode_extension_commit_message_gene_by_codex)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_codex )
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=ghcopilot&theme=transparent&username=komiyamma&repo=vscode-extension-commit-message-gene-by-ghcopilot)](https://github.com/komiyamma/vscode-extension-commit-message-gene-by-ghcopilot)  
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=9&title_prefix_icon=gemini&theme=transparent&username=komiyamma&repo=vscode_extension_commit_message_gene_by_gemini_cli)](https://github.com/komiyamma/vscode_extension_commit_message_gene_by_gemini_cli)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=git&theme=transparent&username=komiyamma&repo=vscode_extension_github100m_limit)](https://github.com/komiyamma/vscode_extension_github100m_limit) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=htmltag&theme=transparent&username=komiyamma&repo=vscode_extension_html_normalizer)](https://github.com/komiyamma/vscode_extension_html_normalizer) [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=6&title_prefix_icon=search&theme=transparent&username=komiyamma&repo=vscode_extension_ripgrep_sjis)](https://github.com/komiyamma/vscode_extension_ripgrep_sjis)
 
 
 # Hidemaru Extension (Conversation AI)
@@ -44,16 +44,16 @@
 <a href="https://github.com/komiyamma/hm_anthropic_web"><img src="index_title_anthropic.png" width="60" height="60"></a>
 <a href="https://github.com/komiyamma/hm_perplexity_web"><img src="index_title_perplexity.png" width="60" height="60"></a>
 
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=grok&username=komiyamma&repo=hm_x_grok_web)](https://github.com/komiyamma/hm_x_grok_web)<!-- [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_ms_copilot_web)](https://github.com/komiyamma/hm_ms_copilot_web) -->
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=gemini&username=komiyamma&repo=hm_google_gemini_web)](https://github.com/komiyamma/hm_google_gemini_web)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=openai&username=komiyamma&repo=hm_chatgpt_web)](https://github.com/komiyamma/hm_chatgpt_web)<!-- [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_github_copilot_chat_web)](https://github.com/komiyamma/hm_github_copilot_chat_web)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_anthropic_claude_web)](https://github.com/komiyamma/hm_anthropic_claude_web)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_deepseek_web)](https://github.com/komiyamma/hm_deepseek_web) -->
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=perlexity&username=komiyamma&repo=hm_perplexity_web)](https://github.com/komiyamma/hm_perplexity_web)<!--  [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&username=komiyamma&repo=hm_openai_chatgpt_writing)](https://github.com/komiyamma/hm_openai_chatgpt_writing) -->
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=openai&username=komiyamma&repo=hm_openai_gpt)](https://github.com/komiyamma/hm_openai_gpt)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=gemini&username=komiyamma&repo=hm_google_gemini)](https://github.com/komiyamma/hm_google_gemini)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=langtrans&username=komiyamma&repo=hm_ai_translator)](https://github.com/komiyamma/hm_ai_translator)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=openai&username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=grok&theme=transparent&username=komiyamma&repo=hm_x_grok_web)](https://github.com/komiyamma/hm_x_grok_web)<!-- [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&theme=transparent&username=komiyamma&repo=hm_ms_copilot_web)](https://github.com/komiyamma/hm_ms_copilot_web) -->
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=gemini&theme=transparent&username=komiyamma&repo=hm_google_gemini_web)](https://github.com/komiyamma/hm_google_gemini_web)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=openai&theme=transparent&username=komiyamma&repo=hm_chatgpt_web)](https://github.com/komiyamma/hm_chatgpt_web)<!-- [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&theme=transparent&username=komiyamma&repo=hm_github_copilot_chat_web)](https://github.com/komiyamma/hm_github_copilot_chat_web)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&theme=transparent&username=komiyamma&repo=hm_anthropic_claude_web)](https://github.com/komiyamma/hm_anthropic_claude_web)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&theme=transparent&username=komiyamma&repo=hm_deepseek_web)](https://github.com/komiyamma/hm_deepseek_web) -->
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=perlexity&theme=transparent&username=komiyamma&repo=hm_perplexity_web)](https://github.com/komiyamma/hm_perplexity_web)<!--  [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&theme=transparent&username=komiyamma&repo=hm_openai_chatgpt_writing)](https://github.com/komiyamma/hm_openai_chatgpt_writing) -->
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=openai&theme=transparent&username=komiyamma&repo=hm_openai_gpt)](https://github.com/komiyamma/hm_openai_gpt)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=gemini&theme=transparent&username=komiyamma&repo=hm_google_gemini)](https://github.com/komiyamma/hm_google_gemini)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=langtrans&theme=transparent&username=komiyamma&repo=hm_ai_translator)](https://github.com/komiyamma/hm_ai_translator)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=openai&theme=transparent&username=komiyamma&repo=hm_openai_chatgpt35_turbo)](https://github.com/komiyamma/hm_openai_chatgpt35_turbo)
 
 # Hidemaru Extension (Embedded Programming)
 
@@ -65,24 +65,24 @@
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php"><img src="index_title_php.png" width="60" height="60"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_cpp_invoke"><img src="index_title_cpp.png" width="60" height="60"></a>
 
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=typescript&username=komiyamma&repo=hm_jsmode_ts_difinition)](https://github.com/komiyamma/hm_jsmode_ts_difinition)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=python&username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=csharp&username=komiyamma&repo=hm_dotnet_com)](https://github.com/komiyamma/hm_dotnet_com)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=5&title_prefix_icon=csharp&username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=php&username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=9&title_prefix_icon=cpp&username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=typescript&theme=transparent&username=komiyamma&repo=hm_jsmode_ts_difinition)](https://github.com/komiyamma/hm_jsmode_ts_difinition)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=python&theme=transparent&username=komiyamma&repo=hm_python3)](https://github.com/komiyamma/hm_python3)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=7&title_prefix_icon=csharp&theme=transparent&username=komiyamma&repo=hm_dotnet_com)](https://github.com/komiyamma/hm_dotnet_com)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=5&title_prefix_icon=csharp&theme=transparent&username=komiyamma&repo=hm_dotnet_fw)](https://github.com/komiyamma/hm_dotnet_fw)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=php&theme=transparent&username=komiyamma&repo=hm_php8)](https://github.com/komiyamma/hm_php8)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=9&title_prefix_icon=cpp&theme=transparent&username=komiyamma&repo=hm_cpp_invoke)](https://github.com/komiyamma/hm_cpp_invoke)
 
 # Hidemaru Extension (Preview)
 
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_markdown_simple_server"><img src="index_md_simple_svr.png" width="80" height="60"></a>
 <a href="https://xn--pckzexbx21r8q9b.net/?page=nobu_tool_hm_php_simple_server"><img src="index_php_simple_svr.png" width="80" height="60"></a>
 
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=markdown&username=komiyamma&repo=hm_markdown_simple_server)](https://github.com/komiyamma/hm_markdown_simple_server)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=markdown&username=komiyamma&repo=hm_markdown_simple_render)](https://github.com/komiyamma/hm_markdown_simple_render)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=php&username=komiyamma&repo=hm_php_simple_server)](https://github.com/komiyamma/hm_php_simple_server)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=markdown&theme=transparent&username=komiyamma&repo=hm_markdown_simple_server)](https://github.com/komiyamma/hm_markdown_simple_server)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=markdown&theme=transparent&username=komiyamma&repo=hm_markdown_simple_render)](https://github.com/komiyamma/hm_markdown_simple_render)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=php&theme=transparent&username=komiyamma&repo=hm_php_simple_server)](https://github.com/komiyamma/hm_php_simple_server)
 
 # Others
 
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin?username=komiyamma&repo=win32-darkmode)](https://github.com/komiyamma/win32-darkmode)
-[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin?username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin?&theme=transparent&username=komiyamma&repo=win32-darkmode)](https://github.com/komiyamma/win32-darkmode)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin?theme=transparent&username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
 
