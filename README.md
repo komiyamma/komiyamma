@@ -81,3 +81,8 @@
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=markdown&username=komiyamma&repo=hm_markdown_simple_render)](https://github.com/komiyamma/hm_markdown_simple_render)
 [![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/?v=3&title_prefix_icon=php&username=komiyamma&repo=hm_php_simple_server)](https://github.com/komiyamma/hm_php_simple_server)
 
+# Others
+
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/&username=komiyamma&repo=win32-darkmode)](https://github.com/komiyamma/win32-darkmode)
+[![Readme Card](https://github-readme-repo-card.vercel.app/api/pin/&username=komiyamma&repo=hidemaru-net)](https://github.com/komiyamma/hidemaru-net)
+
